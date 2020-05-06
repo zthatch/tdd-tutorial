@@ -17,6 +17,9 @@ sbillinge:
       name: intent to collaborate
       year: 2021
       other: intent to collaborate on an NSF proposal
+    - type: research
+      name: nobel research
+      other: this is the big one
   appointments:
     one:
       begin_year: 2017

@@ -65,20 +65,20 @@ Second testing demo - shopping list
     1. find(item)
     1. cant_find(item)
 1. write the class but each method is just pass
+1. start the docstring
 1. TDD, write tests for each to capture the functionality in the UC
+1. iterate the docstring as you struggle to understand the UC
 1. start coding until each test passes, one by one
 
 Hands on task (in pairs)
 ------------------------
-1. your mission is to write a function called ``is_current()``
-1. it will read the given yaml file and tell you if each of the things in
-   the collection is current or not
+1. read the readme in the hands_on folder for instructions
 1. use the standard pair programming workflow, though when you are both more
    experienced you can split up so one person writes the tests and the other
    person writes the code
    
 Follow on tasks
 ---------------
-Only if you have time, pick an issue from regolith and bang it out together
+if you have time, pick an issue from regolith and bang it out together
 
     
