@@ -1,8 +1,6 @@
-import pytest
+from tdd_tutorial.demo.shoppinglist import ShoppingList
 
-@pytest.fixture:
-def shoppinglist():
-    return ShoppingList()
 
-def test_constructor(shoppinglist)
-
+def test_constructor():
+    testlist = ShoppingList()
+    assert testlist.__len__() == 0
