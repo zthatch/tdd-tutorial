@@ -1,11 +1,6 @@
 Crib for how to run the tutorial
 ================================
 
-Goals of the tutorial
----------------------
-1. to understand the importance of TDD
-1. to learn basics of how to do it.
-
 Pair Programming
 ----------------
 1. introduce the concept:
