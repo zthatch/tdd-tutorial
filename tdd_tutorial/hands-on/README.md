@@ -7,7 +7,7 @@ Hands on task
    should work when any one of these is handed to it
 1. There are at least two approaches to doing this (see below).  For the purpose
    of this exercise please write two test, one that does it each way, to get a 
-   feeling for the advantages and disaudvantages of each 
+   feeling for the advantages and disadvantages of each 
     1. use pytest.parameterize to explicitly give the all the different possible 
        types of currenty things
     1. read the yml file and pass all the objects in there to the function to 
